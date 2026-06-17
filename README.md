@@ -38,23 +38,6 @@ Module-1/
 └── README.md
 ```
 
-> Adjust the tree above to match your actual filenames — this is a template based on the topic list.
-
-## ▶️ How to Run
-
-Each file is a standalone C program. Compile and run using GCC:
-
-```bash
-gcc filename.c -o output
-./output
-```
-
-Or use the **Run** button in VS Code with the [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension.
-
-## 🖼️ Sample Outputs
-
-Screenshots of VS Code terminal outputs for select programs are included to show expected results. *(Add an `outputs/` or `screenshots/` folder with PNGs, and link them here, e.g. `![Diamond Pattern Output](outputs/diamond_output.png)`.)*
-
 ## 🔧 Planned Enhancements
 
 This module is a base for ongoing improvement. Ideas for next passes:
@@ -66,13 +49,6 @@ This module is a base for ongoing improvement. Ideas for next passes:
 - [ ] Add a Makefile or shell script to compile all programs at once
 - [ ] Write a short complexity note (loop count / time complexity) for each pattern
 
-## 🎓 Course Info
 
-- **Course:** B.Tech, Computer Science & Engineering
-- **Subject:** C Programming (BCS-201)
-- **University:** AKTU (Dr. A.P.J. Abdul Kalam Technical University)
-- **Institute:** KCC Institute of Technology and Management, Delhi
 
-## 📜 License
 
-Free to use for learning and reference. If this helped you, a ⭐ on the repo is appreciated!
